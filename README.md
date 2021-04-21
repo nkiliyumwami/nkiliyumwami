@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nkiliyumwami
+- 👋 Hi, I’m Emmanuel... @nkiliyumwami
 - 👀 I’m interested in Web development/designer
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...

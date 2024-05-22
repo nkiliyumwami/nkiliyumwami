@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Emmanuel... @nkiliyumwami
 - 👀 I’m interested in Web development/designer
+- MERN Stack Dev
 - 🌱 I’m currently learning Backend Software Development with Java.
-- 💞️ I’m looking to collaborate on javascript, react, node, express, java and mongoDB beginner's projects.
+- 💞️ I’m looking to collaborate on nextjs/react (javascript), node, express, java and, postgresSQL and mongoDB 's projects.
 - 📫 How to reach me : email: nkiliyumwami@gmail.com
 
 <!---
